@@ -40,6 +40,7 @@ Resources for learning English, organized by skill and CEFR level.
 
 ### B2-C2 (Upper Intermediate to Advanced)
 - [Rachel's English](https://rachelsenglish.com/) - Advanced pronunciation videos and exercises.
+- [Pronounce](https://pronounce.renlab.ai/) - Free, open-source pronunciation dictionary for tech and developer jargon (kubectl, nginx, JSON), with IPA, audio, source citations and a quiz mode.
 
 ## Listening
 
