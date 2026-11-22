@@ -42,6 +42,7 @@
 - [HiNative](https://hinative.com/) - Ask native speakers quick questions about how their language is really used.
 - [LangCorrect](https://langcorrect.com/) - Write in your target language and get free corrections from native speakers.
 - [TubeVocab](https://www.tubevocab.com/) - Web app that turns words you click in YouTube subtitles into flashcards with translation, pronunciation and the original sentence, reviewed with spaced repetition. Paid subscription after a small free allowance of 3 videos and 50 cards.
+- [Recordar Palabras](https://recordarpalabras.com/) - Personal vocabulary notebook with short spaced-repetition reviews, on the web and iPhone, with the interface in Spanish and English. Free, with a paid plan for more AI-generated definitions.
 
 ### Free Courses & Audio
 
